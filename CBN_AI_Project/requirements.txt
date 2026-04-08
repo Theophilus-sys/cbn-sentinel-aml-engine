@@ -2,3 +2,12 @@ plotly
 streamlit
 langchain-groq
 python-dotenv
+plotly
+streamlit
+langchain-groq
+python-dotenv
+plotly
+streamlit
+langchain-groq
+python-dotenv
+joblib
