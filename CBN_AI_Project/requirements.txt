@@ -11,3 +11,9 @@ streamlit
 langchain-groq
 python-dotenv
 joblib
+plotly
+streamlit
+langchain-groq
+python-dotenv
+joblib
+FPDF
