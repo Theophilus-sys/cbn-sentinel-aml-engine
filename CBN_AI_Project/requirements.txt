@@ -17,3 +17,10 @@ langchain-groq
 python-dotenv
 joblib
 FPDF
+plotly
+streamlit
+langchain-groq
+python-dotenv
+joblib
+FPDF
+scikit-learn
